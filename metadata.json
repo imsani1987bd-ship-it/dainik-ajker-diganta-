@@ -1,0 +1,8 @@
+{
+  "name": "Remix দৈনিক আজকের দিগন্ত - জাতীয় ই-পেপার ও পেপার মেকার",
+  "description": "জাতীয় পত্রিকা দৈনিক আজকের দিগন্ত এর সম্পূর্ণ ১৬ পাতার আধুনিক ই-পেপার পাঠক, সংবাদ ক্লিপিং ও পেজ মেকার স্টুডিও।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
